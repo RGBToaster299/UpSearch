@@ -96,6 +96,11 @@ This will:
 - **File-based storage** - No database required, uses JSON files
 - **Modern CSS** - Gradient backgrounds, smooth transitions, clean typography
 
+## TODO
+
+[ ] Add proper Dark-Mode 
+[ ] Correct centering-problems  
+
 ## Browser Support
 
 - Chrome/Chromium 60+
