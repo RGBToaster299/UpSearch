@@ -2,6 +2,10 @@
 
 A clean, modern search platform built with vanilla PHP.
 
+## Live-Version
+
+A live version is available on [our Website](https://basicsites.ddns.net/search/)
+
 ## Features
 
 - **Homepage** with centered search bar and clean UI
@@ -98,7 +102,8 @@ This will:
 
 ## TODO
 
-[ ] Add proper Dark-Mode 
+[ ] Add proper Dark-Mode
+
 [ ] Correct centering-problems  
 
 ## Browser Support
