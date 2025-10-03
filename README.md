@@ -5,7 +5,7 @@ A clean, modern search platform built with vanilla PHP.
 
 > [!CAUTION]
 > Since i left GitHub, i moved UpSearch to our Gitea instance.
-> https://basicsites.ddns.net/git/RGBToaster/UpSearch
+> https://basicsites.ddns.net/git/RGBToaster/UpSearch <br>
 > [Read this article](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)<br/>
 
 
