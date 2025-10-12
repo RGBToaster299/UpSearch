@@ -11,7 +11,7 @@ A clean, modern search platform built with vanilla PHP.
 
 ## Live-Version
 
-A live version is available on [our Website](https://basicsites.ddns.net/search/)
+A live version is available on [our Website](https://basicsites.ddns.net/search?utm_source=github.com)
 
 ## Features
 
